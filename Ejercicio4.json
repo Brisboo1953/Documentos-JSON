@@ -1,0 +1,30 @@
+{
+  "businessContactInformation": {
+    "businessName": "Nombre de la empresa",
+    "streetAddress": "Direccion de la calle",
+    "cityStateZipCode": "Ciudad, estado y codigo postal",
+    "email": "correo electronico",
+    "website": "sitio web",
+    "invoiceDetails": {
+      "invoiceNumber": "Numero de factura",
+      "date": "Fecha",
+      "termsOfPayment": "Terminos del pago"
+    },
+    "DescriptionOfGoodsOrServices": [
+      {
+        "productService": "Producto o servicio",
+        "description": "Descripción del producto o servicio",
+        "city": "Ciudad",
+        "rate": "Rate",
+        "Amount": "Monto"
+      },
+      {
+        "productService": "Un segundo pruducto o servicio",
+        "description": "Descripción de segundo producto o servicio",
+        "city": "Ciudad",
+        "rate": "Rate",
+        "Amount": "Monto"
+      }
+    ]
+  }
+}

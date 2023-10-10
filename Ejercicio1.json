@@ -1,0 +1,8 @@
+{
+ "InformacionPedido" : {
+   "Destinatario": "Juan Delgado Martinez",
+  "Articulo Pedido": "Bicicleta Bianchi",
+  "Direccion de Entrega": "Calle Reforma 423, ercer piso, letra A",
+  "Fecha de Entrega": "19-09-2021"
+ }
+}
